@@ -1,0 +1,3 @@
+C:/Users/misha/Desktop/idk/BiDirListCpp/build/CMakeFiles/BiDirListCpp.dir
+C:/Users/misha/Desktop/idk/BiDirListCpp/build/CMakeFiles/edit_cache.dir
+C:/Users/misha/Desktop/idk/BiDirListCpp/build/CMakeFiles/rebuild_cache.dir
